@@ -13,7 +13,7 @@ body {
   text-align: center;
   background: white;
   padding: 30px;
-  border-radius: 15px;
+  border-radius: 35px;
   box-shadow: 0 0 10px rgb(66, 8, 211);
 }
 
@@ -37,6 +37,7 @@ button {
   margin-top: 20px;
   font-size: 1.1rem;
 }
+
 
 
 
