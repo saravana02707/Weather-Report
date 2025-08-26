@@ -2,7 +2,7 @@ body {
   font-family: Arial, sans-serif;
   background-image:url("bg.avif");
   background-repeat:repeat;
-  background-size: 250%;
+  background-size: 150%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -37,6 +37,7 @@ button {
   margin-top: 20px;
   font-size: 1.1rem;
 }
+
 
 
 
